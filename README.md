@@ -19,7 +19,7 @@ Key advantages of cache steering:
 - **No model or code changes required**: Applies post-hoc intervention without retraining or architectural modifications (no hooks!).
 - **Minimal latency overhead**: Fast one-shot intervention with negligible runtime cost.
 
-Read our paper [here](#) for full details.
+Read our paper [here](http://arxiv.org/abs/2507.08799) for full details.
 
 ## Cache Steering in Action
 
